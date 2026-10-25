@@ -22,19 +22,19 @@ The internal SCSI busses are not currently supported.
 
 ## Licenses and copyrights
 
-ANS MACE Fixer:
-Copyright (C) 2026 Cameron Kaiser.
-Copyright (C) 2019 kanjitalk
-Modified from [https://github.com/kanjitalk755/macos9-usb-tablet](https://github.com/kanjitalk755/macos9-usb-tablet)
+ANS MACE Fixer:  
+Copyright (C) 2026 Cameron Kaiser.  
+Copyright (C) 2019 kanjitalk  
+Modified from [https://github.com/kanjitalk755/macos9-usb-tablet](https://github.com/kanjitalk755/macos9-usb-tablet)  
 MIT License.
 
-ANS Startup Fixer:
-Copyright (C) 1996-2026 Cameron Kaiser, Paul Mackerras, Fred Dushin, Michael Tesch.
-Modified from [https://ftp.netbsd.org/pub/NetBSD/arch/macppc/macos-utils/bootvars/](https://ftp.netbsd.org/pub/NetBSD/arch/macppc/macos-utils/bootvars/)
+ANS Startup Fixer:  
+Copyright (C) 1996-2026 Cameron Kaiser, Paul Mackerras, Fred Dushin, Michael Tesch.  
+Modified from [https://ftp.netbsd.org/pub/NetBSD/arch/macppc/macos-utils/bootvars/](https://ftp.netbsd.org/pub/NetBSD/arch/macppc/macos-utils/bootvars/)  
 GNU Public License v2 or later.
 
-ANS Video Enabler:
-Copyright (C) 1997 Apple Computer, Inc.
+ANS Video Enabler:  
+Copyright (C) 1997 Apple Computer, Inc.  
 Modified from the 2.0 MacOS beta ROM. No license is known or implied.
 
 All icons based on an original concept by Hubert Chan, as appearing in Hubert's M.A.C. Icons Version 3.1/Release 9702. Copyright (C) 1995-1997 Hubert Chan.
